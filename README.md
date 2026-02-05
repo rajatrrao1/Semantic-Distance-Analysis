@@ -1,9 +1,9 @@
 This is the repo to compute semantic distance as computed by the following models
 
- •	 sentence-transformers/all-MiniLM-L6-v2  – a small, fast model for general-purpose sentence embeddings, suitable for large datasets and interactive use (Reimers & Gurevych, 2019).
-	•	 sentence-transformers/all-mpnet-base-v2  – a higher-capacity encoder with stronger semantic similarity performance than MiniLM, useful when fine‑grained differences matter more than speed (Reimers & Gurevych, 2019).
-	•	 BAAI/bge-large-en-v1.5  – a large English embedding model optimised for retrieval and semantic matching, recommended when you have fewer texts and want more nuanced distances (Xiao et al., 2023).
-	•	 bert-base-uncased  – the original BERT base model; not specifically tuned for sentence similarity, mainly for experimentation and comparison with specialised sentence‑transformer models (Devlin et al., 2019).
+	• sentence-transformers/all-MiniLM-L6-v2  – a small, fast model for general-purpose sentence embeddings, suitable for large datasets and interactive use (Reimers & Gurevych, 2019).
+	• sentence-transformers/all-mpnet-base-v2  – a higher-capacity encoder with stronger semantic similarity performance than MiniLM, useful when fine‑grained differences matter more than speed (Reimers & Gurevych, 2019).
+	• BAAI/bge-large-en-v1.5  – a large English embedding model optimised for retrieval and semantic matching, recommended when you have fewer texts and want more nuanced distances (Xiao et al., 2023).
+	• bert-base-uncased  – the original BERT base model; not specifically tuned for sentence similarity, mainly for experimentation and comparison with specialised sentence‑transformer models (Devlin et al., 2019).
 
 If you wish to run it online, please use the online app: 
 https://semantic-distance-analysis.streamlit.app/
