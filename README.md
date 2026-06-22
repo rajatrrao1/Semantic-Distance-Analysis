@@ -46,3 +46,7 @@ Reference
 3. BAAI/bge-large-en-v1.5 model card, Hugging Face: https://huggingface.co/BAAI/bge-large-en-v1.5
 4. SentenceTransformers organization page, Hugging Face (embedding models overview): https://huggingface.co/sentence-transformers
 5. bert-base-uncased model card, Hugging Face: https://huggingface.co/bert-base-uncased
+
+
+If you use this tool please cite us as
+Ravi Rao, R., Mulckhuyse, M., van Elk, M., Walker, F. (2026). Appreciating Ambiguity in Art: A preregistered online study on the effects of semantic distance and insight confidence on aesthetic appreciation.
