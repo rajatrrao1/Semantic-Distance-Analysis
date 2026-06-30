@@ -49,4 +49,4 @@ Reference
 
 
 If you use this tool please cite us as
-Ravi Rao, R., Mulckhuyse, M., van Elk, M., Walker, F. (2026). Appreciating Ambiguity in Art: A preregistered online study on the effects of semantic distance and insight confidence on aesthetic appreciation.
+Ravi Rao, R., mulckhuyse, m., van Elk, M., & Walker, F. (n.d.). Appreciating Ambiguity in Art: The effects of semantic distance and insight confidence on aesthetic appreciation. Retrieved from osf.io/preprints/psyarxiv/h8ztf_v1
